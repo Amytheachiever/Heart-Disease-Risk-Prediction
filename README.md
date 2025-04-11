@@ -11,6 +11,9 @@
 
 This project is an interactive machine learning web application built with **Streamlit** that predicts the risk of heart disease based on user inputs. The model is powered by an **XGBoost classifier** and offers **explainable AI insights** using **SHAP values**, making the predictions transparent and easy to interpret.
 
+**Try the live app here** : https://heart-disease-risk-prediction-fvx6xnqqwphg6zebjxwdbw.streamlit.app/
+
+
 
 
 ## Features
