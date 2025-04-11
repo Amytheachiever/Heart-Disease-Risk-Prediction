@@ -3,8 +3,11 @@
 
 
 
-# Heart Disease Risk Prediction System (![image](https://github.com/user-attachments/assets/444751e4-24a1-4764-b988-3003b7e3b088)
-)
+# Heart Disease Risk Prediction System 
+
+
+![image](https://github.com/user-attachments/assets/444751e4-24a1-4764-b988-3003b7e3b088)
+
 
 This project is an interactive machine learning web application built with **Streamlit** that predicts the risk of heart disease based on user inputs. The model is powered by an **XGBoost classifier** and offers **explainable AI insights** using **SHAP values**, making the predictions transparent and easy to interpret.
 
